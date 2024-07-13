@@ -52,6 +52,7 @@ dependencies {
     implementation libs.androidx.navigation.fragment
     implementation libs.androidx.navigation.ui.ktx
     implementation libs.androidx.room.common
+    implementation libs.androidx.room.ktx
 
     // Testing
     testImplementation(libs.junit)
